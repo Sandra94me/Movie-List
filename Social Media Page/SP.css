@@ -1,0 +1,37 @@
+html,
+body {
+  font-family: "Bricolage Grotesque", "Noto Sans TC", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333333;
+}
+
+.loveInactive:hover {
+  color: #e77674;
+}
+
+.loveInactive {
+  color: #a29d9a
+}
+
+.loveActive {
+  color: #ff0400;
+}
+
+.loveActive:hover {
+  color: #e77674;
+}
+
+.dark {
+  background: black;
+  color: #eee;
+  /*淺灰色*/
+}
+
+
+.light {
+  background: #eee;
+  /*淺灰色*/
+  color: #999;
+  /*深灰色*/
+}
